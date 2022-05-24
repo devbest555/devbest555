@@ -6,7 +6,7 @@ As a senior developer, I have extensive knowledge and experience in
 - Smart contract(LP staking/Locking/mining, Bonding, Auto-compounding, yearn and curve, yield farming/staking, NFT(marketplace, mining, auction, airdrop), Vault integration), 
 - Defi Integrations(Aave Lending, Idle finance, Curve liquidity pool, KyberSwap, ParaSwapV4, Synthetix, UniswapV2, V3, YearnVault, 0x V2, V3, Compound lending), 
 - Tools(Truffle, Hardhat, Remix, dapp-tools, Ganache),
-- Rust, Web3.js, Ethers.js, Metaverse, 
+- Web3.js, Ethers.js, Metaverse, 
 #### 🌱 Frontend(Dapp) : 
 - Javascript/Typescript(React/Redux/Saga/Material UI, Angular, Vue, Next with Web3 integrated), NFT(marketplace, mining, auction)-platform, AWS, Integration APIs
 #### 🌱 Backend : 

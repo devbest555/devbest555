@@ -14,7 +14,5 @@ As a senior developer, I have extensive knowledge and experience in
 
 ### 💬 Contact Me
 - 📫 Email: martinbenka26@gmail.com
-- 😄 LinkedIn : https://www.linkedin.com/in/martin-benka-0643991b1/
 - 💬 Telegram: https://t.me/fullstackCrypto
-- 😄 Twitter: https://twitter.com/martinbenka4
 

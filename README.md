@@ -8,9 +8,9 @@ As a senior developer, I have extensive knowledge and experience in
 - Tools(Truffle, Hardhat, Remix, dapp-tools, Ganache),
 - Web3.js, Ethers.js, Metaverse, 
 #### 🌱 Frontend(Dapp) : 
-- Javascript/Typescript(React/Redux/Saga/Material UI, Angular, Vue, Next with Web3 integrated), NFT(marketplace, mining, auction)-platform, AWS, Integration APIs
+- Javascript/Typescript(React/Redux/Saga/Material UI, Angular, Vue with Web3 integrated), NFT(marketplace, mining, auction)-platform, AWS, Integration APIs
 #### 🌱 Backend : 
-- Nodejs/Expressjs/Nestjs, Python, PHP
+- Nodejs/Expressjs/Nestjs, PHP
 
 ### 💬 Contact Me
 - 📫 Email: martinbenka26@gmail.com
